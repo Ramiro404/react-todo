@@ -1,0 +1,3 @@
+.check-completed, .check:hover{ color: green;}
+.text-completed{ text-decoration: line-through; }
+.delete:hover{ color: red; }
